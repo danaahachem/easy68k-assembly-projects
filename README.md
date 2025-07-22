@@ -42,9 +42,3 @@ Each of the following files includes multiple standalone examples or exercises. 
 - All files are `.X68` format for compatibility with Easy68K.
 - Comments are used to organize and separate multiple programs inside each file.
 - You're free to explore or modify each snippet!
-
----
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
